@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @SSharieff18
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me sadathulla.sharieff18@gmail.com
 
