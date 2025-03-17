@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on Projects
-- 📫 How to reach me sadath.sharieff18@gmail.com
+- 📫 How to reach me sadathulla.sharieff18@gmail.com
 
 <!---
 SSharieff18/SSharieff18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
